@@ -28,10 +28,15 @@ Imagine yourself as Peter Pandey and perform the following task.
 
 
 Other resources Provided:
+
 a.    Dataset required to answer preliminary research questions.
+
 b.    Metadata
+
 c.    Instructions for using dataset.
+
 d.    Sample Presentation
+
 
 
 
