@@ -18,7 +18,6 @@ Peter began his work by framing some primary, and secondary research questions a
 
 
 Task:
-
 Imagine yourself as Peter Pandey and perform the following task.
 1.    Check ‘research_questions_and_recommendations.pdf’. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel, PowerPoint) to analyze and answer these questions. More relevant instructions are provided in this document.
 2.    The target audience is top-level officials - hence you need to create a convincing presentation to provide insights/recommendations.
@@ -29,11 +28,14 @@ Imagine yourself as Peter Pandey and perform the following task.
 
 
 Other resources Provided:
-
 a.    Dataset required to answer preliminary research questions.
+
 b.    Metadata
+
 c.    Instructions for using dataset.
+
 d.    Sample Presentation
+
 
 
 Credits:
