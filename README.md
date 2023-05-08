@@ -41,4 +41,4 @@ d.    Sample Presentation
 
 
 Credits:
-The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/). 
+The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset.
