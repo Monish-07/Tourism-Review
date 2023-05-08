@@ -42,3 +42,13 @@ d.    Sample Presentation
 
 Credits:
 The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset.
+
+
+Presentation Slides
+
+![1](https://user-images.githubusercontent.com/95215581/236849517-2880efca-caf0-47f7-9a65-410d67019362.jpg)
+
+
+
+
+
