@@ -33,7 +33,7 @@ a.    Dataset required to answer preliminary research questions.
 
 b.    Metadata
 
-c.    Instructions for using dataset.
+c.    Instructions for using dataset
 
 d.    Sample Presentation
 
